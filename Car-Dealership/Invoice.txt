@@ -1,0 +1,21 @@
+
+		                       ABC Dealership - Customer Invoice                  
+			///////////////////////////////////////////////////////////
+			| Invoice No. :------------------| #Cnb81353 |
+			| Customer Name:-----------------|AhmerAdnan |
+			| Customer CNIC:-----------------|3.74059e+012 |
+			| Customer Phone No:-------------|3.13156e+009 |
+			| Car Model :--------------------|MERCEDES_BENZ |
+			| Car No. :----------------------|      3818 |
+			| Price :------------------------| 50Million |
+			| Advanced :---------------------|         0 |
+			 ________________________________________________________
+
+			 ________________________________________________________
+			 # This is a computer generated invoce and it does not
+			 require an authorised signture #
+ 
+			///////////////////////////////////////////////////////////
+			You are advised to pay up the amount before due date.
+			Otherwise penelty fee will be applied
+			///////////////////////////////////////////////////////////
